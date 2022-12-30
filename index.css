@@ -1,0 +1,156 @@
+div#form\ section {}
+
+div#form\ section {
+    width: 800px;
+    margin: 80px auto;
+    background: linear-gradient(90deg,#5600ff,#11ebff);
+}
+
+.form-heading {}
+
+div#form\ section {}
+
+.form-wrapper {
+    overflow: hidden;
+}
+
+.form-heading {
+    width: 165px;
+    color: white;
+    text-align: center;
+    float: left;
+    padding: 75px 10px;
+    font-family: arial;
+    display: block;
+}
+
+.form-heading p {font-size: 12px;line-height: 20px;margin-bottom: 50px;}
+
+button#login\ button {
+    border: none;
+    background: white;
+    padding: 5px 30px;
+    border-radius: 50px;
+    font-weight: 700;
+    color: #333;
+}
+
+.form-box {
+    width: 605px;
+    float: right;
+    margin-left: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background: linear-gradient(90deg,#f5f6f6,#f5f5f5,white 589px);
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+
+.form-head-button .heir-button {
+    padding-right: 10px !important;
+    border: none;
+    padding: 5px;
+    background: blue;
+    color: white;
+    font-weight: 700;
+    text-align: right;
+    width: 130px;
+    float: right;
+}
+
+.form-head-button {
+    position: relative;
+    margin-top: 10px;
+    float: right;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button.Employee {
+    padding: 3px 10px;
+    border-color: blue;
+    border-radius: 50px;
+    font-weight: 700;
+    color: blue;
+    background: white;
+    position: absolute;
+    left: 439px;
+    top: 0px;
+}
+
+.form-headline {
+    color: #444;
+    font-family: arial;
+    text-align: center;
+    font-weight: 700;
+}
+
+.mine-form {
+    overflow: hidden;
+    column-count: 2;
+    padding-left: 85px;
+    width: 428px;
+    margin-bottom: 40px;
+}
+
+.mine-form input {
+    margin-bottom: 20px;
+    border: none;
+    background: white;
+    padding: 5px;
+}
+button {}
+
+.mine-form button {}
+
+.mine-form button {
+    border: none;
+    padding: 4px 10px;
+    background: blue;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+    float: right;
+    position: relative;
+    left: 20px;
+}
+
+label.gender1 {
+    font-family: arial;
+    font-size: 14px;
+}
+
+label.gender2 {
+    font-family: arial;
+    font-size: 14px;
+}
+
+select.selectoption {
+    display: block;
+    margin-bottom: 20px;
+    padding: 6px;
+    font-family: arial;
+    color: #333;
+    width: 179px;
+    position: relative;
+    left: 27px;
+}
+
+label.agreebutton {
+    font-family: arial;
+    font-size: 14px;
+    position: relative;
+    left: 27px;
+}
+input[type="date"] {
+    width: 169px;
+}
+
+.inputbox2 input {
+    float: right;
+}
+i.fa-solid.fa-arrow-right-to-bracket {
+    font-size: 35px;
+}

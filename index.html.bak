@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<script src="https://kit.fontawesome.com/21c0f4e287.js" crossorigin="anonymous"></script>
+		<link rel='stylesheet' href='rejistationform.css'/>
+	
+		<title>unice form desing</title>
+	</head>
+	<body>
+	
+		<div id='form section'>
+			<div class='form-wrapper'>
+				
+				<div class='form-heading'>
+					<i class="fa-solid fa-arrow-right-to-bracket"></i>
+					<h4>WELCOME</h4>
+					<p>You will get good oportunaty form our site.So please complet this form.</p>
+					<button id='login button'>LogIn</button>
+				</div>
+				<div class='form-box'>
+					<div class='form-head-button'>
+						<button class='heir-button'>Heir</button>
+						<button class='Employee'>Employee</button>
+					</div>
+					<div class='form-headline'><h3>Apply as a Employee</h3></div>
+					<div class='mine-form'>
+						
+						<input type='text' placeholder='enter your first name'>
+						<input type='text' placeholder='enter your last name'>
+						
+						<input type='date' >
+						
+						<label class='gender1'for='gender-male'>Male</label>
+						<input type='radio' name='gender-choice'  value='choice-1' >
+						<label class='gender2'for='gender-female'>Female</label>
+						<input type='radio' name='gender-choice'  value='choice-1'/>
+						<label class='gender2' for='gender-other'>Other</label>
+						<input type='radio' name='gender-choice' value='choice-1'/>
+						<div class='inputbox2'>
+						<input type='email' placeholder='enter your email'/>
+						<input type='password' placeholder='enter your password'/>
+						<select class='selectoption'>
+							<option value='0' selected disabled >Select your skill</option>
+							<option>Web design and devolopment</option>
+							<option>Content and post writer</option>
+							<option>Social markating</option>
+							<option>digital markating</option>
+							<option>Artical writer</option>
+							<option>Grapix designer</option>
+							<option>Application devoloper</option>
+							<option>Plugin devoloper</option>
+						
+						</select>
+						
+						
+						<label class='agreebutton' for='agree'>I will agree to your rules</label>
+						<input type='checkbox' name='agree'/>
+						
+						<button>Register</button>
+						
+					</div>
+					
+					</div>
+				
+				</div>
+			
+			</div>
+		
+		</div>
+	
+	</body>
+
+
+</html>
