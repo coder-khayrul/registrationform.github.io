@@ -2,10 +2,16 @@
 
 <html>
 	<head>
+		
 	<script src="https://kit.fontawesome.com/21c0f4e287.js" crossorigin="anonymous"></script>
-		<link rel='stylesheet' href='rejistationform.css'/>
+		<link rel='stylesheet' href='index.css'/>
 	
 		<title>unice form desing</title>
+<<<<<<< HEAD
+		<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+=======
+		<link rel="icon" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.favicon.cc%2F%3Faction%3Dicon%26file_id%3D523850&psig=AOvVaw1siB6hsEDE38ZUNj8ztHWu&ust=1672509746390000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC856z1ofwCFQAAAAAdAAAAABAJ"/>
+>>>>>>> b14bb5156a6fee887c982719f00092c064e67e21
 	</head>
 	<body>
 	
